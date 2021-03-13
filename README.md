@@ -1,7 +1,7 @@
 # Programacion
 :speech_balloon: [1º DAM] - Ejercicios, Boletines y Apuntes de Programacion.
 
-`Último ejercicio añadido:` [Boletín 14](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/2-Trimestre/Boletin%2014/boletin14/src/com/programacion)
+`Último ejercicio añadido:` [Boletín 16](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/2-Trimestre/Boletin16/src)
 
 1º Trimestre | 2º Trimestre | 3º Trimestre
 ------------ | ------------- | -------------
