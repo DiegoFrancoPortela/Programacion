@@ -1,7 +1,7 @@
 # Programacion
 :speech_balloon: [1º DAM] - Ejercicios, Boletines y Apuntes de Programacion.
 
-`Último ejercicio añadido:` [Boletín 16](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/2-Trimestre/Boletin16/src)
+`Último ejercicio añadido:` [Boletín 22](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/3-Trimestre/Boletin22/src/com/diego)
 
 1º Trimestre | 2º Trimestre | 3º Trimestre
 ------------ | ------------- | -------------
@@ -55,3 +55,13 @@ Apuntes | Apuntes | Apuntes
   * [16.3](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/2-Trimestre/Boletin16/src/boletin16_3)
   * [16.4](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/2-Trimestre/Boletin16/src/boletin16_4)
   
+  ## Índice Detallado | Boletines - 2º Trimestre
+* Boletin 19
+  * [19](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/3-Trimestre/Boletin19/src/com/diego)
+* Boletin 20
+  * [20](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/3-Trimestre/Boletin20/src/com/diego)
+* Boletin 21
+  * [21.1](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/3-Trimestre/Boletin21/src/com/diego)
+  * [21.2](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/3-Trimestre/Boletin21.2/src/com/diego)
+* Boletin 22
+  * [22](https://github.com/DiegoFrancoPortela/Programacion/tree/master/Boletines/3-Trimestre/Boletin22/src/com/diego)
